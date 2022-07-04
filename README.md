@@ -14,7 +14,7 @@ Curso ministrado pela CODER -
 7. Deploy na Nuvem
 8. Projeto Template Admin - Autenticação e Integração com o Firebase
 9. Projeto Final
-10. [Bônus: Entendendo TypeScript](https://github.com/daniloJava/curso-nextjs/10-typescript)
+10. [Bônus: Entendendo TypeScript](https://github.com/daniloJava/curso-nextjs/tree/main/10-typescript)
 
 <br></br>
 - - - -
