@@ -7,7 +7,7 @@ Curso ministrado pela CODER -
 
 1. Introdução
 2. [Revisão React](https://github.com/daniloJava/curso-nextjs/tree/main/02-revisao-react)
-3. Fundamentos de NextJS
+3. [Fundamentos de NextJS](https://github.com/daniloJava/curso-nextjs/tree/main/03-fundamentos-next-js)
 4. Projeto Porta Premiada - Aplicando os Conceitos Fundamentais
 5. Modos de Pré Renderização do Next JS
 6. Projeto Quiz - Full Stack com Next JS
