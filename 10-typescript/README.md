@@ -5,6 +5,6 @@ Curso ministrado pela CODER -
 
 ## Mudulo Realizado 
 
-- Bônus: Entendendo TypeScript
+- **Section 10:** Bônus: Entendendo TypeScript
 
 Aprendendo sobre tipos e configurações.

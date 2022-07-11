@@ -6,7 +6,7 @@ Curso ministrado pela CODER -
 ## Mudulo Realizado 
 
 1. Introdução
-2. Revisão React
+2. [Revisão React](https://github.com/daniloJava/curso-nextjs/tree/main/02-revisao-react)
 3. Fundamentos de NextJS
 4. Projeto Porta Premiada - Aplicando os Conceitos Fundamentais
 5. Modos de Pré Renderização do Next JS
