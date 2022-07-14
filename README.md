@@ -1,7 +1,7 @@
 # Curso de NextJS
 
 Curso ministrado pela CODER -
-[Next.js e React - Curso Completo - Aprenda com Projetos](https://www.udemy.com/course/nextjs-e-react/)
+[Next.js e React - Curso Completo - Aprenda com Projetos](https://www.udemy.com/course/nextjs-e-react/) carga de **28.5 horas**
 
 ## Mudulo Realizado 
 
@@ -9,7 +9,7 @@ Curso ministrado pela CODER -
 2. [Revisão React](https://github.com/daniloJava/curso-nextjs/tree/main/02-revisao-react)
 3. [Fundamentos de NextJS](https://github.com/daniloJava/curso-nextjs/tree/main/03-fundamentos-next-js)
 4. [Projeto Porta Premiada - Aplicando os Conceitos Fundamentais](https://github.com/daniloJava/curso-nextjs/tree/main/04-porta-premiada-js)
-5. Modos de Pré Renderização do Next JS
+5. [Modos de Pré Renderização do Next JS](https://github.com/daniloJava/curso-nextjs/tree/main/05-pre-renderizacao)
 6. Projeto Quiz - Full Stack com Next JS
 7. Deploy na Nuvem
 8. Projeto Template Admin - Autenticação e Integração com o Firebase
