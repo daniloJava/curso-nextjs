@@ -13,7 +13,7 @@ Curso ministrado pela CODER -
 6. [Projeto Quiz - Full Stack com Next JS](https://github.com/daniloJava/curso-nextjs/tree/main/06-projeto-quiz)
 7. [Deploy na Nuvem](https://github.com/daniloJava/curso-nextjs/tree/main/07-deploy-nuvem)
 8. [Projeto Template Admin - Autenticação e Integração com o Firebase](https://github.com/daniloJava/curso-nextjs/tree/main/08-projeto-template-admin)
-9. Projeto Final
+9. [Projeto Final](https://github.com/daniloJava/curso-nextjs/tree/main/09-projeto-final-crud)
 10. [Bônus: Entendendo TypeScript](https://github.com/daniloJava/curso-nextjs/tree/main/10-typescript)
 
 <br></br>
